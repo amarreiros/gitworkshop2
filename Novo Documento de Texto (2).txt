@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 Ola eu sou o Miguel e gosto muito de todos vocês <3!
+=======
+xpto 11123
+
+
+dsd
+
+
+gfdfdf
+
+vcv
+>>>>>>> 879b1fe6a194dbcbe552a6920b2f516551c440fe
